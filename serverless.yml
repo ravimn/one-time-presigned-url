@@ -1,4 +1,5 @@
 service: one-time-presigned-url # change this
+app: one-time-presigned-url
 
 provider:
   name: aws
