@@ -1,4 +1,4 @@
-service: presigned-upload # change this
+service: one-time-presigned-url # change this
 
 provider:
   name: aws
